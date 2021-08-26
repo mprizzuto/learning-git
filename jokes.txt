@@ -7,3 +7,6 @@ if having coffee doesnt wake you up, try deleting a table in production db inste
 
 knck knock whos there. larry. larry who? larry david i hate life
 
+
+how many programmers does it take to scrrew in a lightbulb
+none, its a hardware problem
