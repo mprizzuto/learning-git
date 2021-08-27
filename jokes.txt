@@ -1,12 +1,2 @@
-this is a heading! insert jokes below
-
-a journalist asked a programmer what makes bade code. no comment
-
-this is a rally funny joke
-if having coffee doesnt wake you up, try deleting a table in production db instead
-
-knck knock whos there. larry. larry who? larry david i hate life
-
-
-how many programmers does it take to scrrew in a lightbulb
-none, its a hardware problem
+this is a joke
+ this is ianother joke
