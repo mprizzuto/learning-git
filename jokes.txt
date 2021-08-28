@@ -1,13 +1,4 @@
 
-this is a joke
- this is ianother joke
-
-this is a heading! insert jokes below
-
-a journalist asked a programmer what makes bade code. no comment
-
-this is a rally funny joke
-if having coffee doesnt wake you up, try deleting a table in production db instead
 
 knck knock whos there. larry. larry who? larry david i hate life
 
@@ -19,5 +10,3 @@ holla! holla who? challah the bread man\
 do you know what? you are a funny looking dude! rspect though!
 
 why cant a nose be 12 inches long? cause it would be a foot
-
-knock knock ! its a door
